@@ -1,0 +1,16 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+
+#logs
+npm-debug.log*
+
+#sevice account info
+service-account.json
